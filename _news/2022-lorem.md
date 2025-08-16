@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Wei join Dr. Howard Haihui Xue lab as a postdoc researcher
+date: 2021-08-01 00:01:00 +0800
 ---
